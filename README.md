@@ -12,10 +12,13 @@ How many customers hold a credit card?
 How many products does a typical customer use?
 How long do customers stay with the bank?
 Which customer groups hold the highest balances?
+
 🛠️ Tools Used
+
 Tool	Purpose
 Power BI Desktop	Data modelling, visuals and dashboard design
 Excel / CSV	Source customer data
+
 📊 Dashboard Contents
 
 KPI Cards
@@ -35,6 +38,7 @@ Count of Customers by Tenure and Gender (clustered bar chart)
 Number of Products by Geography (matrix)
 Average Tenure by Geography
 Gender slicer for interactive filtering
+
 🔍 Key Insights
 
 France has the highest number of active bank members compared to Germany and Spain.
@@ -46,6 +50,7 @@ Only 50% of members are active, so there is a big opportunity to re-engage the i
 Male customers in France hold the highest account balances, while female engagement in Spain and Germany is slightly lower.
 
 💡 Recommendations
+
 Run re-engagement campaigns for the inactive 5,000 members.
 Cross-sell additional products (savings, loans, insurance) to customers who hold only 1 or 2 products.
 Build targeted offers for female customers in Spain and Germany.
