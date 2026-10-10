@@ -36,6 +36,7 @@ Number of Products by Geography (matrix)
 Average Tenure by Geography
 Gender slicer for interactive filtering
 🔍 Key Insights
+
 France has the highest number of active bank members compared to Germany and Spain.
 There are over 10,000 card holders, showing that credit cards are the bank's most successful product.
 The average customer salary is over 100K, which points to a wealthy customer group.
@@ -43,6 +44,7 @@ Most customers use only 1 or 2 products; very few use 3 or 4.
 On average, customers stay with the bank for about 5 years, showing good long-term loyalty.
 Only 50% of members are active, so there is a big opportunity to re-engage the inactive 5,000 members.
 Male customers in France hold the highest account balances, while female engagement in Spain and Germany is slightly lower.
+
 💡 Recommendations
 Run re-engagement campaigns for the inactive 5,000 members.
 Cross-sell additional products (savings, loans, insurance) to customers who hold only 1 or 2 products.
